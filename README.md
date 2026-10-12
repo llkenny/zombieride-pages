@@ -1,6 +1,8 @@
-# ZombieRide information pages
+# Zombddon information pages
 
 Standalone English privacy and support pages, also bundled with the offline iPhone game.
+The public app name is **Zombddon**; **ZombieRide** remains the project and working name.
+The pages repository name and published URLs remain unchanged.
 No build tools, JavaScript, analytics, forms, or external assets are required.
 
 ## Publish
