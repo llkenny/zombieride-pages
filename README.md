@@ -1,21 +1,8 @@
 # Zombddon information pages
 
-Standalone English privacy and support pages, also bundled with the offline iPhone game.
-The public app name is **Zombddon**; **ZombieRide** remains the project and working name.
-The pages repository name and published URLs remain unchanged.
-No build tools, JavaScript, analytics, forms, or external assets are required.
+Standalone English privacy and support pages for Zombddon iOS game.
 
-## Publish
-
-1. Create the public GitHub repository `llkenny/zombieride-pages` without initial files.
-2. From this directory, publish the existing local commit:
-
-```sh
-git push -u origin main
-```
-
-3. In the repository Settings → Pages, select **Deploy from a branch**, **main**, and **/(root)**.
-4. Wait for deployment and verify both direct URLs:
+## Links
 
 - https://llkenny.github.io/zombieride-pages/privacy.html
 - https://llkenny.github.io/zombieride-pages/support.html
